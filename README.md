@@ -1,7 +1,7 @@
 # Stopwatch
 STOPWATCH (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: https://github.com/divyanshul66/Stopwatch
+You can see the website live at: https://div357.github.io/Stopwatch
 
 ABOUT THIS PROJECT-:
 
